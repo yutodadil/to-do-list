@@ -1,6 +1,7 @@
 ### これは数日前に上げた
 ### https://github.com/yutodadil/YT-Channel-Reporter
 ### が成功したので(惜しくも削除されたのは動画のみなので、別のも削除するから時間がかかる)次にやるべきことなどを書き記します。
+### 90日以内に3つの動画が削除されたら垢BANされるので(確かそのはず)、今回のターゲットのYT垢は死にます。
 - [ ] 1.Doxbin等でdoxxingをしている又はdoxxingが得意な人に接触を試み、今回のターゲットをdoxxingをする/してもらう。
 - [ ] 2.YTやDiscordにipの開示請求を送り、ipを入手する。(Discordは偽の開示請求が通るって噂があるから多分Discord)
 - [ ] 3.Python+Go Botnetを作成し(Pythonの理由はPythonの場合だと、EDRをBypass出来ることがあるから。)、Layer 3 Methodを作成/再利用する。
