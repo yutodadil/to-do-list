@@ -13,4 +13,3 @@ Check list
 - [ ] Release
 ## Total Progress : 4/9
 ## Reason for creating project : Lua勉強とGGがまともに使える仮想が見つかったから
-## when if plnning starting this project: 未定
