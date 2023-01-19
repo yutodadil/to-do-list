@@ -6,10 +6,10 @@ Check list
 - [x] Create Script
 - [x] Obfuscate Script
 - [x] Closed Bata
-- [ ] Search All Offsets
-- [ ] Create ModMenu All Features to Script
-- [ ] Debug Script
-- [ ] Open Bata(Discord)
+- [x] Debug Script
+- [x] Open Bata(Discord)
+- [x] ~~Search All Offsets~~
+- [x] ~~Create ModMenu All Features to Script~~
 - [ ] Release
-## Total Progress : 4/9
+## Total Progress : 8/9
 ## Reason for creating project : Lua勉強とGGがまともに使える仮想が見つかったから
