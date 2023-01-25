@@ -10,6 +10,5 @@ Check list
 - [x] Open Bata(Discord)
 - [x] ~~Search All Offsets~~
 - [x] ~~Create ModMenu All Features to Script~~
-- [ ] Release
-## Total Progress : 8/9
-## Reason for creating project : Lua勉強とGGがまともに使える仮想が見つかったから
+- [x] Release
+## Total Progress : 9/9
